@@ -1,0 +1,51 @@
+body {
+  font-family: 'Roboto Mono', monospace;
+    
+    background-image: url('http://www.coxinhanerd.com.br/wp-content/uploads/2020/05/apps.35181.65947957826518055.1ed9f1f8-e9a4-433f-9d94-0af25e5f783e.7baa4cfd-2e73-49a1-ad12-0b33caad97cc.jpg');
+    background-color: #635242;
+    background-size:100%;
+    background-position: center top;
+    background-repeat: no-repeat;
+    padding-bottom: 20vh;
+}
+
+.container {
+  margin:15px;
+  text-align: left;
+  padding: 0px;
+  height: 50vh;
+}
+
+.page-title {
+  color: white;
+  margin: 5 0 5px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 15px;
+}
+
+.page-logo {
+  width: 200px;
+}
+p{
+  color:black;
+  
+  
+}
+
+
+img{
+  
+  background-color:black
+  
+}
+
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right:10px;
+}
